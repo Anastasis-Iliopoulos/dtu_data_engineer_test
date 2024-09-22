@@ -1,10 +1,8 @@
-# dtu_data_engineer_test
-
-Description
-# Part 1:
+# dtu_data_engineer_test - Description
+## Part 1:
   - data_engineer_test_part_1.md
   - data_engineer_test_part_1.pdf
-# Part 2:
+## Part 2:
   - Step 1: Deploy a Virtual Machine
     - create_all.py
   - Step 2: Read Data from Azure Storage Account:
